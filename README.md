@@ -1,2 +1,2 @@
-# C-_Document
+# C++ Document
 Lecture and book about C plus plus programming language 
